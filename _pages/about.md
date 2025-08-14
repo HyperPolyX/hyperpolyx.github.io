@@ -11,7 +11,7 @@ redirect_from:
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
  
 <div style="text-align: center; margin: 40px auto; max-width: 100%;">
-  <img src="../images/alluniversities.png" alt="3univ" 
+  <img src="/images/alluniversities.png" alt="3univ" 
        style="width: 80%; max-width: 800px; height: auto; 
               border: 1px solid #f0f0f0; border-radius: 5px;
               box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
