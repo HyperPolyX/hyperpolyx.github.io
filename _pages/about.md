@@ -19,16 +19,16 @@ I'm Axl, a PhD student of [CNAI Lab](https://shuai-huang.github.io) in Samuel Gi
 
 
 
-Published Paper
+📝Published Paper
 ======
-
+<br>
 Here is only for showing my TOP paper, like CVPR, ECCV, ICLR ect.  
 If not papers were shown, it means I need to put in more effort.
 For ordinary SCI or EI papers, please check my ResearchGate.  
 
-Research Experiences
+🧐Research Experiences
 ======
-
+<br>
 **Research Assistant**       2023-2025  
 Faculty of Data Science  
 City University of Macau  
@@ -37,9 +37,9 @@ City University of Macau
 Institution of Artificial Intelligence and Applications  
 Guangdong Second Provincial General Hospital  
 
-Education
+🎓Education
 ======
-
+<br>
   **Phd Student** in Electrical Engineering       2025 - Now  
   **Auburn University🇺🇸**  
   Supervised by [Prof. Shuai Huang](https://eng.auburn.edu/directory/szh0224)  
