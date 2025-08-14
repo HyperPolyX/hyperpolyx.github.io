@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Axl! Like *The Middle*'s Axl. Here is a spirit!"
+title: "Hello there, I'm Axl! Like *The Middle*'s Axl. A spirit for me!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -40,6 +40,7 @@ Guangdong Second Provincial General Hospital
 Education
 ======
 
+<div class="section-content">
 **Phd Student** in Electrical Engineering       2025 - Now  
 **Auburn University🇺🇸**  
 Supervised by [Prof. Shuai Huang](https://eng.auburn.edu/directory/szh0224)  
@@ -50,6 +51,8 @@ Supervised by [Prof. Fengshi jing](https://fds.cityu.edu.mo/en/members/291)
 
 **Exchange student** in Computer Science Sep       2022 - Jan 2023  
 **Shenzhen University🇨🇳**  
+
+</div>
 
 Skills
 ------
