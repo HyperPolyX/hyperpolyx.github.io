@@ -62,3 +62,11 @@ Eat a lot everyday..........................
 Sleep a lot everyday..........................  
 Craft a PIG Marker.  
 
+
+
+<div style="text-align: center; margin: 40px auto; max-width: 100%;">
+  <img src="images/The Middle Drop Off.jpg" alt="3univ" 
+       style="width: 80%; max-width: 800px; height: auto; 
+              border: 1px solid #f0f0f0; border-radius: 5px;
+              box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
