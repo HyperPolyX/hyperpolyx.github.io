@@ -51,7 +51,7 @@ Guangdong Second Provincial General Hospital
   **City University of Macau🇲🇴**  
   Supervised by [Prof. Fengshi jing](https://fds.cityu.edu.mo/en/members/291)  
   
-  **Exchange student** in Computer Science Sep       &emsp;2022 - Jan 2023  
+  **Exchange student** in Computer Science &emsp;Sep 2022 - Jan 2023  
   **Shenzhen University🇨🇳**  
 
 
