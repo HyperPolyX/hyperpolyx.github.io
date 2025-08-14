@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm Axl, a PhD student of [CNAI Lab](https://shuai-huang.github.io) in Samuel Ginn College of Engineering at Auburn Universiy. My research interests include Computer Vision, Data Mining and Deep Learning.
+A PhD student of [CNAI Lab](https://shuai-huang.github.io) in Samuel Ginn College of Engineering at Auburn Universiy. My research interests include Computer Vision, Data Mining and Deep Learning.
  
 <div style="text-align: center; margin: 40px auto; max-width: 100%;">
   <img src="images/alluniversities.png" alt="3univ" 
