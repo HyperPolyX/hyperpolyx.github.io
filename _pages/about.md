@@ -29,26 +29,26 @@ For ordinary SCI or EI papers, please check my ResearchGate.
 Research Experiences
 ======
 
-**Research Assistant** 2023-2025  
+**Research Assistant**       2023-2025  
 Faculty of Data Science  
 City University of Macau  
 
-**Research Assistant** 2023-2025  
+**Research Assistant**       2023-2025  
 Institution of Artificial Intelligence and Applications  
 Guangdong Second Provincial General Hospital  
 
 Education
 ======
 
-**Phd Student** in Electrical Engineering 2025 - Now  
+**Phd Student** in Electrical Engineering       2025 - Now  
 **Auburn University🇺🇸**  
 Supervised by [Prof. Shuai Huang](https://eng.auburn.edu/directory/szh0224)  
 
-**Bsc** in Information Technology 2021 - 2025  
+**Bsc** in Information Technology       2021 - 2025  
 **City University of Macau🇲🇴**  
 Supervised by [Prof. Fengshi jing](https://fds.cityu.edu.mo/en/members/291)  
 
-**Exchange student** in Computer Science Sep 2022 - Jan 2023  
+**Exchange student** in Computer Science Sep       2022 - Jan 2023  
 **Shenzhen University🇨🇳**  
 
 Skills
