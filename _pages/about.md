@@ -40,19 +40,18 @@ Guangdong Second Provincial General Hospital
 Education
 ======
 
-<div class="section-content">
-**Phd Student** in Electrical Engineering       2025 - Now  
-**Auburn University🇺🇸**  
-Supervised by [Prof. Shuai Huang](https://eng.auburn.edu/directory/szh0224)  
+  **Phd Student** in Electrical Engineering       2025 - Now  
+  **Auburn University🇺🇸**  
+  Supervised by [Prof. Shuai Huang](https://eng.auburn.edu/directory/szh0224)  
+  
+  **Bsc** in Information Technology       2021 - 2025  
+  **City University of Macau🇲🇴**  
+  Supervised by [Prof. Fengshi jing](https://fds.cityu.edu.mo/en/members/291)  
+  
+  **Exchange student** in Computer Science Sep       2022 - Jan 2023  
+  **Shenzhen University🇨🇳**  
 
-**Bsc** in Information Technology       2021 - 2025  
-**City University of Macau🇲🇴**  
-Supervised by [Prof. Fengshi jing](https://fds.cityu.edu.mo/en/members/291)  
 
-**Exchange student** in Computer Science Sep       2022 - Jan 2023  
-**Shenzhen University🇨🇳**  
-
-</div>
 
 Skills
 ------
