@@ -19,7 +19,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
     max-width: 900px;">
   
   <div style="text-align: center;">
-    <img src="images/alluniversities.png" alt="3unv" style="width: 150px; height: auto;">
+    <img src="../images/alluniversities.png" alt="3unv" style="width: 150px; height: auto;">
     <p style="margin-top: 10px;"></p>
   </div>
   
