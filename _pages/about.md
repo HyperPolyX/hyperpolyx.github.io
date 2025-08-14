@@ -23,7 +23,7 @@ I'm Axl, a PhD student of [CNAI Lab](https://shuai-huang.github.io) in Samuel Gi
 ======
 <br>
 
-Here is only for showing my TOP paper, like CVPR, ECCV, ICLR ect.  
+Here is only for showing my TOP paper, like CVPR, ECCV, ICLR etc.  
 If not papers were shown, it means I need to put in more effort.  
 For ordinary SCI or EI papers, please check my ResearchGate.  
 
