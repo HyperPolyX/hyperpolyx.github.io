@@ -19,19 +19,10 @@ This is the front page of a website that is powered by the [Academic Pages templ
     max-width: 900px;">
   
   <div style="text-align: center;">
-    <img src="校徽1路径" alt="大学1名称" style="width: 150px; height: auto;">
-    <p style="margin-top: 10px;">大学1名称</p>
+    <img src="images/alluniversities.png" alt="3unv" style="width: 150px; height: auto;">
+    <p style="margin-top: 10px;"></p>
   </div>
   
-  <div style="text-align: center;">
-    <img src="校徽2路径" alt="大学2名称" style="width: 150px; height: auto;">
-    <p style="margin-top: 10px;">大学2名称</p>
-  </div>
-  
-  <div style="text-align: center;">
-    <img src="校徽3路径" alt="大学3名称" style="width: 150px; height: auto;">
-    <p style="margin-top: 10px;">大学3名称</p>
-  </div>
 </div>
 
 
