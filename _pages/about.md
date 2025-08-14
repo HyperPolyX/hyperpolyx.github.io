@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Axl! Like *The Middle*'s Axl. Here is a spirit！"
+title: "Hello there, I'm Axl! Like *The Middle*'s Axl. Here is a spirit!"
 author_profile: true
 redirect_from: 
   - /about/
