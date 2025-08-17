@@ -47,7 +47,7 @@ Guangdong Second Provincial General Hospital
   **Auburn University🇺🇸**  
   Supervised by wonderful [Prof. Shuai Huang](https://eng.auburn.edu/directory/szh0224)  
   
-  **Bsc** in Information Technology       &emsp;2021 - 2025  
+  **BSc** in Information Technology       &emsp;2021 - 2025  
   **City University of Macau🇲🇴**  
   Supervised by wonderful [Prof. Fengshi Jing](https://fds.cityu.edu.mo/en/members/291)  
   
