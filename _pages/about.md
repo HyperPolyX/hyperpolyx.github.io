@@ -45,18 +45,18 @@ Guangdong Second Provincial General Hospital
 
   **Phd Student** in Electrical Engineering       &emsp;2025 - Now  
   **Auburn University🇺🇸**  
-  Supervised by [Prof. Shuai Huang](https://eng.auburn.edu/directory/szh0224)  
+  Supervised by wonderful [Prof. Shuai Huang](https://eng.auburn.edu/directory/szh0224)  
   
   **Bsc** in Information Technology       &emsp;2021 - 2025  
   **City University of Macau🇲🇴**  
-  Supervised by [Prof. Fengshi jing](https://fds.cityu.edu.mo/en/members/291)  
+  Supervised by wonderful [Prof. Fengshi Jing](https://fds.cityu.edu.mo/en/members/291)  
   
   **Exchange student** in Computer Science &emsp;Sep 2022 - Jan 2023  
   **Shenzhen University🇨🇳**  
 
 
 
-Skills
+For Funnnnnnn
 ------
 Eat a lot everyday..........................  
 Sleep a lot everyday..........................  
