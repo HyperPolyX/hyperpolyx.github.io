@@ -38,7 +38,6 @@ City University of Macau
 **Research Assistant**       &emsp;2023-2025  
 Institution of Artificial Intelligence and Applications  
 Guangdong Second Provincial General Hospital
-
 Supervised by wonderful [Dr. Hao Ren](https://www.researchgate.net/profile/Ren-Hao-9)
 
 🎓Education
