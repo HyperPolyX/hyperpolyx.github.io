@@ -37,22 +37,23 @@ City University of Macau
 
 **Research Assistant**       &emsp;2023-2025  
 Institution of Artificial Intelligence and Applications  
-Guangdong Second Provincial General Hospital  
+Guangdong Second Provincial General Hospital
+Supervised by wonderful [Dr. Hao Ren](https://www.researchgate.net/profile/Ren-Hao-9)
 
 🎓Education
 ======
 <br>
 
   **Phd Student** in Electrical Engineering       &emsp;2025 - Now  
-  **Auburn University🇺🇸**  
+  **Auburn University 🇺🇸**  
   Supervised by wonderful [Prof. Shuai Huang](https://eng.auburn.edu/directory/szh0224)  
   
   **BSc** in Information Technology       &emsp;2021 - 2025  
-  **City University of Macau🇲🇴**  
+  **City University of Macau 🇲🇴**  
   Supervised by wonderful [Prof. Fengshi Jing](https://fds.cityu.edu.mo/en/members/291)  
   
   **Exchange student** in Computer Science &emsp;Sep 2022 - Jan 2023  
-  **Shenzhen University🇨🇳**  
+  **Shenzhen University 🇨🇳**  
 
 
 
