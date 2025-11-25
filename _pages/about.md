@@ -31,7 +31,8 @@ For ordinary SCI or EI papers, please check my ResearchGate.
 ======
 <br>
 
-**Research Excellence Award**, 2024-2025 Academic Year     From City University of Macau
+**Research Excellence Award**, 2024-2025 academic year <br>
+From City University of Macau
 
 
 🧐Research Experiences
