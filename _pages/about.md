@@ -27,12 +27,13 @@ Here is only for showing my TOP paper, like CVPR, ECCV, ICLR etc.
 If not papers were shown, it means I need to put in more effort.  
 For ordinary SCI or EI papers, please check my ResearchGate.  
 
-🥇**Awards**
+**🥇Awards**
 ======
 <br>
 
 **Research Excellence Award**, 2024-2025 Academic Year
 City University of Macau
+
 
 🧐Research Experiences
 ======
