@@ -11,6 +11,13 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
+  # Only for writing course
+  - title: "Biographical Statement"
+    url: /publications/
+  - title: "Research Interest Statement"
+    url: /portfolio/
+  
+
   # - title: "Talks"
   #   url: /talks/    
 
