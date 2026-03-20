@@ -5,8 +5,9 @@ permalink: /intl1830RIS/
 author_profile: true
 ---
 
+## Attention: This page is only for INTL1830 course work!
 ## Beyond the Screen: Can Machines Ever Truly Understand Us?
-### Attention: This page is only for INTL1830 course work!
+
 
 Imagine having a conversation with a librarian who has read every book ever written, in
 every language, and can summarize them for you in seconds. It is not a dream or
