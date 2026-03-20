@@ -13,9 +13,9 @@ main:
 
   # Only for writing course
   - title: "Biographical Statement"
-    url: /publications/
+    url: /intl1830BS/
   - title: "Research Interest Statement"
-    url: /portfolio/
+    url: /intl1830RIS/
   
 
   # - title: "Talks"
