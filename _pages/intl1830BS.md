@@ -4,6 +4,7 @@ title: "Biographical Statement"
 permalink: /intl1830BS/
 author_profile: true
 ---
+## Attention: This page is only for INTL1830 course work!
 
 Zeyu Luo is currently pursuing his PhD at Auburn University under the supervision of Dr. Shuai
 Huang. His research interests lie in the application of AI in Healthcare, specifically focusing on
