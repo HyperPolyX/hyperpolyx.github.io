@@ -34,6 +34,11 @@ For ordinary SCI or EI papers, please check my ResearchGate.
 **Research Excellence Award**, 2024-2025 academic year <br>
 From City University of Macau
 
+**Ad-hoc Reviewer for:**
+======
+<br>
+· One Health (Q1, 2026)
+
 
 🧐Research Experiences
 ======
