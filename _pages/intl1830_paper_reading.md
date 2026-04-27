@@ -8,8 +8,7 @@ author_profile: true
 ## Attention: This page is only for INTL1830 course work! For more information about my research, please follow my RsearchGate(link on Homepage).
 
 **Trunk, D. (2023, August 21). A recipe for student success.
-https://www.facultyfocus.com/articles/effective-classroom-management/a-recipe-for-student-suc
-cess/**
+https://www.facultyfocus.com/articles/effective-classroom-management/a-recipe-for-student-success/**
 
 **Summary**
 
