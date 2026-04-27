@@ -17,6 +17,7 @@ I tested my framework on three representative pulmonary disease datasets, and it
 level.
 
 **Predicting Mortality Risk in Alzheimer's Disease Using Machine Learning Based on Lifestyle and Physical Activity Y.X., Z.L.(Co-first author), X.S, T.G, X.T Frontiers in Psychiatry Computational Psychiatry(Third review, will be accepted soon)**
+
 **Estimating Cardiovascular Mortality in Patients with Hypertension Using Machine Learning: The Role of Depression Classification Based on Lifestyle and Physical Activity X.L., Z.L(Co-first author), C.L., L.W., H.R., T.C. Current Problems in Cardiology(Reviewing)**
 ![](/assets/images/Screenshot%2026-04-26%9.27.44%PM.png)
 These two papers are based on the NHANES database. The first one predicts the
