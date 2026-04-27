@@ -11,6 +11,7 @@ author_profile: true
 Contrastive learning has shown good scalability, and Topological Data Analysis (TDA) has demonstrated excellent feature extraction performance. In contrast, the
 performance of traditional CNN networks still needs improvement. This paper was accepted by IEEE DSC in July 2024.
 ![1](/assets/images/Screenshot%2026-04-26%9.22.22%PM.png)
+
 Based on this, I innovatively proposed a contrastive learning framework under TDA supervision, using TDA and ResNet50 as feature encoders, bringing them closer in a
 128-dimensional space by computing cosine embedding loss to supervise ResNet's learning.
 I tested my framework on three representative pulmonary disease datasets, and it demonstrated good performance. This paper is my representative work on the algorithm
@@ -20,6 +21,7 @@ level.
 
 **Estimating Cardiovascular Mortality in Patients with Hypertension Using Machine Learning: The Role of Depression Classification Based on Lifestyle and Physical Activity X.L., Z.L(Co-first author), C.L., L.W., H.R., T.C. Current Problems in Cardiology(Reviewing)**
 ![2](/assets/images/Screenshot%2026-04-26%9.27.44%PM.png)
+
 These two papers are based on the NHANES database. The first one predicts the
 mortality probability of Alzheimer's disease, and the second predicts the cardiovascular
 mortality of hypertensive patients. The research in both papers is based on COX and
