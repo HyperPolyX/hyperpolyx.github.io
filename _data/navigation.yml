@@ -16,6 +16,11 @@ main:
     url: /intl1830BS/
   - title: "Research Interest Statement"
     url: /intl1830RIS/
+  - title: "Artifacts"
+    url: /intl1830_Artifacts/
+  - title: "Paper Reading"
+    url: /intl1830_paper_reading/
+  
   
 
   # - title: "Talks"
